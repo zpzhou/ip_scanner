@@ -1,2 +1,5 @@
+# mac DS_Store
+.DS_Store
+
 # python executables
 .pyc
